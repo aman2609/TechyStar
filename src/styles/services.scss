@@ -1,0 +1,13 @@
+.legend {
+    color: rgb(255, 34, 14) !important;
+    font-size: 2.5rem !important;
+    background-color: rgba(123,123,123,0) !important;
+    opacity: 1 !important;
+    &:hover{
+        opacity: 1 !important;
+        color: rgb(232, 247, 20,1) !important;
+        font-size: 2.5rem !important;
+        background-color: rgba(123,123,123,0) !important;
+    }
+}
+
